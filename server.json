@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-irvine",
   "title": "Arcgis Irvine",
   "description": "City of Irvine GIS — Irvine, California open geospatial data (ArcGIS).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-irvine",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-irvine",
