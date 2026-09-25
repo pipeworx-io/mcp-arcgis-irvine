@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-irvine",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Irvine GIS — Irvine, California open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9eabd87c8b77f58bbe8da24231ac2e2f511cbaedee8333c9328b784096925b39",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-f06bbbeb51df59406f73d87c32c21501cf4ed4f7136aca7be544d0b8bcd2b6a8",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
